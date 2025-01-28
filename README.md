@@ -1,4 +1,5 @@
-# Stroke Prediction Machine Learning Model - Portfolio Project
+# Stroke Prediction Machine Learning Model
+Dataset can be found at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Overview
 This project showcases my capstone work in developing a machine learning model to predict the likelihood of stroke occurrences in patients. The goal was to transition from a reactive to a preventative approach in healthcare, leveraging data science and machine learning to provide actionable insights for patients and healthcare providers.
@@ -41,23 +42,8 @@ The project followed the SEMMA methodology (Sample, Explore, Modify, Model, Asse
 - **Application**: Calculated accuracy and validated the model on a separate test dataset.
 
 ## Results
-The logistic regression model successfully predicted stroke occurrences with a high degree of accuracy. The model's interpretability allowed for clear understanding of the contributing factors, providing valuable insights for preventative healthcare measures.
+View results from the confusion matrix here: https://docs.google.com/document/d/1dyAgwGXN06PaS6dYQGEv8VCvFWaHfK8YmljdyvMcejw/edit?usp=sharing
 
-## User Guide
-To use the model:
-1. Access the True Health Care Provider website.
-2. Navigate to the stroke prediction tool.
-3. Input the required patient data.
-4. View the model's prediction and the contributing factors.
 
-## Conclusion
-This project demonstrates my ability to apply machine learning techniques to real-world problems, particularly in the healthcare sector. By developing a predictive model, I aimed to enhance patient care through proactive health management.
 
-## Reference Page
-- Kaggle: Stroke Prediction Dataset
-- HIPAA Regulations
-- SEMMA Methodology
 
----
-
-This README provides a comprehensive overview of the project, highlighting the key aspects and outcomes. It serves as a portfolio piece to showcase my skills in data science and machine learning.
