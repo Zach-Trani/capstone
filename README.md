@@ -44,6 +44,8 @@ The project followed the SEMMA methodology (Sample, Explore, Modify, Model, Asse
 ## Results
 View results from the confusion matrix here: https://docs.google.com/document/d/1dyAgwGXN06PaS6dYQGEv8VCvFWaHfK8YmljdyvMcejw/edit?usp=sharing
 
+![Alt Text](box plot.png)
+
 
 
 
