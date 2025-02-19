@@ -1,5 +1,5 @@
 # Linear Regression Stroke Prediction Machine Learning Model
-### View Prediction Results at https://colab.research.google.com/github/Zach-Trani/100devs-homework/blob/main/Logistic_Regression_Stroke_Prediction.ipynb
+### View Prediction Results at https://colab.research.google.com/drive/1TohEMh5S1ZyoF5Nlh5LJ7LFtPLfCDkMm
 ### Dataset can be found at https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Overview
