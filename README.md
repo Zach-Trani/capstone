@@ -1,6 +1,6 @@
-# View My Linear Regression Stroke Prediction Machine Learning Model
-### https://colab.research.google.com/github/Zach-Trani/100devs-homework/blob/main/Logistic_Regression_Stroke_Prediction.ipynb
-### Dataset can be found at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+# Linear Regression Stroke Prediction Machine Learning Model
+### View Prediction Results at https://colab.research.google.com/github/Zach-Trani/100devs-homework/blob/main/Logistic_Regression_Stroke_Prediction.ipynb
+### Dataset can be found at https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Overview
 This project showcases my capstone work in developing a machine learning model to predict the likelihood of stroke occurrences in patients. The goal was to transition from a reactive to a preventative approach in healthcare, leveraging data science and machine learning to provide actionable insights for patients and healthcare providers.
@@ -41,12 +41,6 @@ The project followed the SEMMA methodology (Sample, Explore, Modify, Model, Asse
 ### Assess
 - **Objective**: Evaluate model performance.
 - **Application**: Calculated accuracy and validated the model on a separate test dataset.
-
-## Results
-View results from the confusion matrix here: https://docs.google.com/document/d/1dyAgwGXN06PaS6dYQGEv8VCvFWaHfK8YmljdyvMcejw/edit?usp=sharing
-
-![Alt Text](box plot.png)
-
 
 
 
