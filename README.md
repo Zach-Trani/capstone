@@ -1,5 +1,6 @@
-# Stroke Prediction Machine Learning Model
-Dataset can be found at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+# View My Linear Regression Stroke Prediction Machine Learning Model
+### https://colab.research.google.com/github/Zach-Trani/100devs-homework/blob/main/Logistic_Regression_Stroke_Prediction.ipynb
+### Dataset can be found at: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Overview
 This project showcases my capstone work in developing a machine learning model to predict the likelihood of stroke occurrences in patients. The goal was to transition from a reactive to a preventative approach in healthcare, leveraging data science and machine learning to provide actionable insights for patients and healthcare providers.
